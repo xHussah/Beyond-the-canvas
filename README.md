@@ -30,9 +30,22 @@ Source: Kaggle - https://www.kaggle.com/datasets/vishmiperera/children-drawings?
 
 ## Live Demo 
 The live demo is deployed using the best model
+
 <img width="800" alt="Screenshot 2026-05-16 061312" src="https://github.com/user-attachments/assets/a25ec6a0-8784-48ed-9973-96843be1cc9e" />
 <img width="800" alt="Screenshot 2026-05-16 061334" src="https://github.com/user-attachments/assets/c14d9c5b-fe97-47b1-a8f7-96c1b14d6538" />
 <img width="800" alt="Screenshot 2026-05-16 061357" src="https://github.com/user-attachments/assets/2f71e240-0833-4bb5-bb7c-e52ee5e0c981" />
+
+**To run the demo you should:**
+
+1- Clone the repository or upload "Server.py" and "index.html" manually.
+
+2- Upload "best_final_model.keras" from here:https://drive.google.com/file/d/1Hg-1Omcr0Td-W9O-4Ef-xXz3QmbdycXn/view?usp=sharing .
+
+3- Make sure the 3 files are in the same folder.
+
+4- Run the server and wait until the terminal shows Model ready.
+
+5- Open the index page.
 
 ## Developers
 - Deema Alfarhoud
@@ -40,4 +53,4 @@ The live demo is deployed using the best model
 - Hussah Alotaibi 
 - Zuhd Ibrahim
 
-This project was finished in May 2026.
+This project was completed in May 2026.
