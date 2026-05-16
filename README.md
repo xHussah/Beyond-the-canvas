@@ -19,14 +19,12 @@ Source: Kaggle - https://www.kaggle.com/datasets/vishmiperera/children-drawings?
 - HTML / CSS / JavaScript (web frontend)
 
 **Models Tested**
- 
-| Model | Test Accuracy | Macro F1 |
-|---|---|---|
-| SVM with HOG Features (Baseline) | 48.59% | 0.4871 |
-| MobileNetV2 | 50.00% | 0.4906 |
-| ResNet50 | 32.39% | 0.2609 |
-| **VGG16  (Best)** | **60.56%** | **0.6068** |
-| Soft-Voting Ensemble | 60.56% | 0.5992 |
+
+- SVM with HOG Features (Baseline)
+- MobileNetV2
+- ResNet50
+- **VGG16  (Best)**
+- Soft-Voting Ensemble 
 
 ## Live Demo 
 The live demo is deployed using the best model
